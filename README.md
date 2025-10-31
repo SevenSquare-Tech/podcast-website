@@ -1,4 +1,5 @@
 # How to Run the App Locally
+[Full Guide to Build a Podcast Website in ReactJs.](https://www.sevensquaretech.com/build-podcast-platform-reactjs-code-github)
 
 Follow these steps to run the Podverse web app on your local machine:
 
